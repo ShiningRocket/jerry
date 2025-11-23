@@ -1,14 +1,3 @@
-<h2 align="center">
-  Wyvern Team Portfolio<br/>
-  <a href="https://wyvern-team-portfolio.vercel.app/" target="_blank">Live Demo</a>
-</h2>
-
-![](https://raw.githubusercontent.com/GamerRaven/Wyvern-Team-Portfolio/main/README/desktop.png)
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/GamerRaven/Wyvern-Team-Portfolio/main/README/tablet-view.png"  width="40%">
-</div>
-
 ## Features
 - Fully Responsive 
 - Multi-Page Templates
