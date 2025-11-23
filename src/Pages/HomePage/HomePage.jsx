@@ -176,7 +176,7 @@ function HomePage(props) {
                                 Quality
                             </h3>
                             <p className="features__container__item__details">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Quality-first approach ensuring reliable performance, clean execution, and durability.
                             </p>
                         </div>
                         <div className="features__container__item card-hover">
@@ -189,7 +189,7 @@ function HomePage(props) {
                                 Affordable
                             </h3>
                             <p className="features__container__item__details">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Affordable pricing without sacrificing quality, speed, or reliability.
                             </p>
                         </div>
                         <div className="features__container__item card-hover">
@@ -202,7 +202,7 @@ function HomePage(props) {
                                 Efficient
                             </h3>
                             <p className="features__container__item__details">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Efficient solutions built for speed, reliability, and smooth performance.
                             </p>
                         </div>
                         <div className="features__container__item card-hover">
@@ -215,7 +215,7 @@ function HomePage(props) {
                                 Professional
                             </h3>
                             <p className="features__container__item__details">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry..
+                                Innovative full-stack engineer delivering scalable, high-impact solutions.
                             </p>
                         </div>
                     </div>
@@ -280,15 +280,11 @@ function HomePage(props) {
                                         />
                                     </div>
                                     <p className="reviews__carousel__item__details">
-                                        Lorem Ipsum is simply dummy text of the
-                                        printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-                                        dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type
-                                        and scrambled it to form a great text body.
+                                        He consistently delivers clean, scalable solutions and raises the technical bar for every project. His ability to diagnose and optimize complex systems is unmatched.
+                                        He
                                     </p>
                                     <h2 className="reviews__carousel__item__name">
-                                        Jason Mark
+                                        Jason
                                     </h2>
                                 </div>
                             </SwiperSlide>
@@ -323,15 +319,10 @@ function HomePage(props) {
                                         />
                                     </div>
                                     <p className="reviews__carousel__item__details">
-                                        Lorem Ipsum is simply dummy text of the
-                                        printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-                                        dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type
-                                        and scrambled it to
+                                        He Working with him is a masterclass in modern full-stack engineering. He brings clarity to ambiguity, mentors teammates with patience, and always ships reliable, production-ready code.
                                     </p>
                                     <h2 className="reviews__carousel__item__name">
-                                        Jason Mark
+                                        Mary
                                     </h2>
                                 </div>
                             </SwiperSlide>
@@ -366,15 +357,10 @@ function HomePage(props) {
                                         />
                                     </div>
                                     <p className="reviews__carousel__item__details">
-                                        Lorem Ipsum is simply dummy text of the
-                                        printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-                                        dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type
-                                        and scrambled it to
+                                        He blends strong architectural thinking with hands-on coding expertise. He improves performance, enhances user experience, and elevates team productivity wherever he works.
                                     </p>
                                     <h2 className="reviews__carousel__item__name">
-                                        Jason Mark
+                                        Jaxon
                                     </h2>
                                 </div>
                             </SwiperSlide>
@@ -409,15 +395,10 @@ function HomePage(props) {
                                         />
                                     </div>
                                     <p className="reviews__carousel__item__details">
-                                        Lorem Ipsum is simply dummy text of the
-                                        printing and typesetting industry. Lorem
-                                        Ipsum has been the industry's standard
-                                        dummy text ever since the 1500s, when an
-                                        unknown printer took a galley of type
-                                        and scrambled it to
+                                        Few developers combine technical depth and communication skills like he. He solves problems quickly, collaborates effortlessly, and consistently delivers results that exceed expectations.
                                     </p>
                                     <h2 className="reviews__carousel__item__name">
-                                        Jason Mark
+                                        Tomas
                                     </h2>
                                 </div>
                             </SwiperSlide>
@@ -429,7 +410,7 @@ function HomePage(props) {
                         target="_blank"
                         className="btn btn-primary"
                     >
-                        Join Our Discord
+                        Join My Discord
                     </a>
                 </section>
             </main>
