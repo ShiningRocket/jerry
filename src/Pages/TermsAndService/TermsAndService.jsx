@@ -18,34 +18,58 @@ function TermsAndService(props) {
 				</div>
 				<div className="tos__body padding">
 					<p className="document">
+												<br /> <br /> <span className="bold-head">Service Summary</span>
+						<br /> <br /> Full-stack engineer delivering end-to-end web solutions—from modern frontend interfaces and scalable backend systems to cloud infrastructure, DevOps automation, and performance optimization. Skilled in designing high-reliability architectures, improving system efficiency, building secure APIs, and modernizing legacy platforms. Offers strategic technical consulting, cost-effective cloud solutions, and clean, maintainable code that supports long-term growth.
 						This is the terms of the service.<br />
 						<br />
-						<span className="bold-head">DEFINITIONS</span><br /> <br />
-						1.1 The following definitions apply to this Contract:
+						<span className="bold-head">💼 Provide</span><br /> <br />
+						1. Full-Stack Application Development
 						<br /> <br />
-						<span className="bold">"Wyvern"</span> refers to Wyvern.
+						🏆 End-to-end web app development (frontend + backend)
 						<br /> <br />
-						<span className="bold">"Wyvern"</span> refers to Wyvern.
+						🏆 React, Next.js, Node.js, TypeScript, Python, Django, Express
 						<br /> <br />
-						<span className="bold">"Wyvern"</span> refers to Wyvern.
+						🏆 Scalable architecture with clean, maintainable code
 						<br /> <br />
-						<span className="bold">"Wyvern"</span> refers to Wyvern.
+						2. Frontend Engineering & UI Modernization
+						<br /> <br />🏆 High-performance interfaces using React, Vue, Angular
+						<br /> <br />🏆 Accessibility upgrades (WCAG 2.1 AA)
+						<br /> <br />🏆 UX/UI optimization and responsive design
 						<br /> <br />
-						<span className="bold-head">AGREEMENT</span> <br /> <br />
-						2.1 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.2 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.3 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.4 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.5 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.6 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.7 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.8 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.9 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> 2.10 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-						<br /> <br /> <span className="bold-head">REFUND POLICY</span>
-						<br /> <br /> Lorem Ipsum is simply dummy text of the printing and typesetting industry. <br /> <br />
-						(i) Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br /> <br />
-						(ii) Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+						3. Backend Systems & API Development
+						<br /> <br />🏆 REST & GraphQL API design
+						<br /> <br />🏆 Microservices & event-driven architecture
+						<br /> <br />🏆 Secure, high-throughput backend services (Java/Spring Boot, Node.js)
+						<br /> <br />
+						4. Cloud & DevOps Engineering
+						<br /> <br />🎖️ AWS infrastructure setup and optimization
+						<br /> <br />🎖️ Docker/Kubernetes deployments
+						<br /> <br />🎖️ CI/CD pipeline automation (Jenkins, GitHub Actions)
+						<br /> <br />
+						5. Performance Optimization
+						<br /> <br />🎖️ Profiling and refactoring slow codebases
+						<br /> <br />🎖️ Reducing latency, memory usage, and cloud costs
+						<br /> <br />🎖️ Improving system reliability and uptime
+						<br /> <br />
+						6. Database & Data Layer Engineering
+						<br /> <br />🏅 PostgreSQL, MongoDB, Redis
+						<br /> <br />🏅 Query optimization and schema design
+						<br /> <br />🏅 Data caching strategies for high-traffic systems
+						<br /> <br />
+						7. System Architecture & Technical Leadership
+						<br /> <br />🏅 Designing scalable, fault-tolerant systems
+						<br /> <br />🏅 Code reviews, best practices, and mentorship
+						<br /> <br />🏅 Leading cross-functional technical initiatives
+						<br /> <br />
+						8. AI, Automation & Tooling
+						<br /> <br />🥇 Chatbot prototyping (Python/NLP)
+						<br /> <br />🥇 Automated testing frameworks (Jest, Selenium)
+						<br /> <br />🥇 Workflows that reduce manual effort and prevent bugs
+						<br /> <br />
+						9. Consulting & Technical Strategy
+						<br /> <br />🥇 Modernizing legacy systems
+						<br /> <br />🥇 Architecture reviews and scalability planning
+						<br /> <br />🥇 Cloud cost-reduction strategies (up to 30%+ savings)
 					</p>
 				</div>
 			</div>
