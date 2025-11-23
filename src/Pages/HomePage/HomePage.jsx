@@ -35,7 +35,7 @@ function HomePage(props) {
                             className="header__brand__icon"
                         />
                         <p className="header__brand__description">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                            Results-driven Senior Full-Stack Developer with 6+ years of experience designing, building, and scaling high-performance web applications and enterprise systems. Strong background in React, Node.js, Java/Spring, and cloud-native architectures, with a proven record of improving system performance, modernizing legacy platforms, and delivering mission-critical features used by millions of users. Experienced in microservices, API development, accessibility compliance, CI/CD automation, and large-scale distributed systems. Recognized for clean coding practices, scalability-focused engineering, and cross-functional leadership—mentoring teams, driving testing culture, and reducing production issues. Passionate about building robust digital experiences, optimizing cloud infrastructure, and contributing to innovative, user-centric product development.
                         </p>
                     </div>
                 </section>
@@ -45,21 +45,11 @@ function HomePage(props) {
                     {/* Stats Section */}
 
                     <section className="stats padding">
-                        <div class="video-container">
-                            <iframe
-                                class="video-iframe"
-                                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-                                title="Rick Roll"
-                                frameborder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen
-                            ></iframe>
-                        </div>
                         <div className="stats__container">
                             <div className="stats__container__item">
                                 <h2 className="stats__container__item__counter">
                                     <Ticker
-                                        end={100}
+                                        end={23}
                                         duration={1}
                                         suffix=" +"
                                     />
@@ -72,7 +62,7 @@ function HomePage(props) {
                             <div className="stats__container__item">
                                 <h2 className="stats__container__item__counter">
                                     <Ticker
-                                        end={100}
+                                        end={10}
                                         duration={1}
                                         suffix=" +"
                                     />
@@ -81,12 +71,24 @@ function HomePage(props) {
                                     Freelancers
                                 </p>
                             </div>
+                            <div className="stats__container__item">
+                                <h2 className="stats__container__item__counter">
+                                    <Ticker
+                                        end={25}
+                                        duration={1}
+                                        suffix=" +"
+                                    />
+                                </h2>
+                                <p className="stats__container__item__description">
+                                    Projects
+                                </p>
+                            </div>
                         </div>
                     </section>
 
                     {/* Services Section */}
                     <section className="services padding">
-                        <h2 className="services__heading">OUR SERVICES</h2>
+                        <h2 className="services__heading">MY SERVICES</h2>
                         <div className="services__container">
                             <div className="services__container__item card-hover">
                                 <div className="services__container__item__illustration">
@@ -101,7 +103,7 @@ function HomePage(props) {
                                         Web Development
                                     </h3>
                                     <p className="services__container__item__description__details">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Building modern, responsive websites that boost performance, usability, and reliability.
                                     </p>
                                 </div>
                             </div>
@@ -118,7 +120,7 @@ function HomePage(props) {
                                         Plugin Development
                                     </h3>
                                     <p className="services__container__item__description__details">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Expert plugin development delivering seamless features and optimized performance.
                                     </p>
                                 </div>
                             </div>
@@ -135,7 +137,7 @@ function HomePage(props) {
                                         Minecraft Configuration
                                     </h3>
                                     <p className="services__container__item__description__details">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Custom Minecraft configurations tailored for smooth servers and balanced gameplay.
                                     </p>
                                 </div>
                             </div>
@@ -152,41 +154,7 @@ function HomePage(props) {
                                         Discord Bot Development
                                     </h3>
                                     <p className="services__container__item__description__details">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="services__container__item card-hover">
-                                <div className="services__container__item__illustration">
-                                    <img
-                                        src="./design.png"
-                                        alt=""
-                                        className="services__container__item__illustration__image"
-                                    />
-                                </div>
-                                <div className="services__container__item__description">
-                                    <h3 className="services__container__item__description__heading">
-                                        Design
-                                    </h3>
-                                    <p className="services__container__item__description__details">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                    </p>
-                                </div>
-                            </div>
-                            <div className="services__container__item card-hover">
-                                <div className="services__container__item__illustration">
-                                    <img
-                                        src="./minecraft design.png"
-                                        alt=""
-                                        className="services__container__item__illustration__image"
-                                    />
-                                </div>
-                                <div className="services__container__item__description">
-                                    <h3 className="services__container__item__description__heading">
-                                        Minecraft Design
-                                    </h3>
-                                    <p className="services__container__item__description__details">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                        Custom Discord bots with smart features, clean code, and reliable performance.
                                     </p>
                                 </div>
                             </div>
@@ -196,7 +164,7 @@ function HomePage(props) {
 
                 {/* Features Section */}
                 <section className="features padding">
-                    <h2 className="features__heading">OUR FEATURES</h2>
+                    <h2 className="features__heading">MY FEATURES</h2>
                     <div className="features__container">
                         <div className="features__container__item card-hover">
                             <img
@@ -208,7 +176,7 @@ function HomePage(props) {
                                 Quality
                             </h3>
                             <p className="features__container__item__details">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                             </p>
                         </div>
                         <div className="features__container__item card-hover">
@@ -221,7 +189,7 @@ function HomePage(props) {
                                 Affordable
                             </h3>
                             <p className="features__container__item__details">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                             </p>
                         </div>
                         <div className="features__container__item card-hover">
@@ -234,7 +202,7 @@ function HomePage(props) {
                                 Efficient
                             </h3>
                             <p className="features__container__item__details">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                             </p>
                         </div>
                         <div className="features__container__item card-hover">
@@ -247,7 +215,7 @@ function HomePage(props) {
                                 Professional
                             </h3>
                             <p className="features__container__item__details">
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry..
+                                Lorem Ipsum is simply dummy text of the printing and typesetting industry..
                             </p>
                         </div>
                     </div>
@@ -255,7 +223,7 @@ function HomePage(props) {
 
                 {/* Reviews Section */}
                 <section className="reviews padding">
-                    <h2 className="reviews__heading">OUR REVIEWS</h2>
+                    <h2 className="reviews__heading">MY REVIEWS</h2>
 
                     <div className="reviews__carousel">
                         <img
